@@ -5,9 +5,7 @@ module.exports = {
         watch: ["server"],
         env: {
             "NODE_ENV": "development",
-        },
-        env_production: {
-            "NODE_ENV": "production"
+            PORT: 3000
         }
     }, {
         name: "static",

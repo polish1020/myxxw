@@ -4,12 +4,11 @@ module.exports = {
         script: "./server/app.js",
         env: {
             "NODE_ENV": "production",
-        },
-        env_production: {
-            "NODE_ENV": "production"
+            PORT: 80
         }
     }, {
         name: "static",
-        script: "parcel build ./views/index.html"
+        interpreter: "parcel",
+        script: "./views/index.html"
     }]
 }

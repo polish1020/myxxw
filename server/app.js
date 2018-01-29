@@ -21,6 +21,7 @@ app.use(session(app));
 app.use(bodyParser());
 app.use(router.routes()).use(router.allowedMethods());
 
+console.log(process.env.PORT)
 
 app.listen(process.env.PORT || 3000);
 console.log(`listening on port ${process.env.PORT || 3000}`);
