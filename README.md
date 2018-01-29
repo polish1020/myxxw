@@ -1,30 +1,60 @@
-# myxxw
+我终究是败了
+败给了金钱，父母
+我想我会恨吧
+你花这么多时间教会我爱
+当情势所迫我不得不爱
+最终还是
 
-> A Vue.js project
+了却一生
+如你离去
+我必生死相依
+我把一切都交给你
+最终也败给你
+你教给我的
+我全都还给你
+如你不在
+我也无所顾虑
 
-## Build Setup
+我是没有未来的人
+是你给了我未来
+给了我前进的动力
+没有你的未来
+和我毫无相干
+与死亡何异
 
-``` bash
-# install dependencies
-npm install
+我曾幻想
+我孤身一人
+想爱谁就爱谁
+然而现实
+我要和各方博弈
+人们永远不能齐心
 
-# serve with hot reload at localhost:8080
-npm run dev
+无谓的担心
+无谓的忧虑
+最终得来的
+全是毁灭与摧残
+与毁灭何异
 
-# build for production with minification
-npm run build
+自以为是的爱
+自以为是的关心
+自以为是的憧憬
 
-# build for production and view the bundle analyzer report
-npm run build --report
+所以我并不是一个正常人
+从来都不是
+正常人的世界我不懂
+也请不要用正常人的眼光看我
+你若用爱待我
+我必报以生命
 
-# run unit tests
-npm run unit
+我是躲在黑暗中漠视人间的野兽
+你用爱融化我心中坚冰
+拂去我内心黑暗
+将我拉回现实
+可我却留不住你
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+我所做的周旋
+无非是想大家各退一步
+和平相处
+但是大家都寸步不让
+寸土必争
+人性黑暗让人绝望

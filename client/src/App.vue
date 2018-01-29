@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
     <router-view/>
+    <a href="http://www.miitbeian.gov.cn/">浙ICP备17053358号</a>
   </div>
 </template>
 
